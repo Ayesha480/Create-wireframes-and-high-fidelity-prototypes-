@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unlock Your Potential</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Unlock Your Potential</h1>
+    <p>Explore Courses in Soft Skills and Technical Skills</p>
+    <button class="cta-btn">Start Learning Now</button>
+  </header>
+
+  <section class="courses">
+    <h2>Our Courses</h2>
+    <div class="course-category">
+      <h3>Soft Skills</h3>
+      <div class="course-card">
+        <h4>Communication Skills</h4>
+        <p>Master the art of effective communication.</p>
+        <button>Enroll</button>
+      </div>
+      <div class="course-card">
+        <h4>Leadership</h4>
+        <p>Develop leadership qualities for any workplace.</p>
+        <button>Enroll</button>
+      </div>
+    </div>
+
+    <div class="course-category">
+      <h3>Technical Skills</h3>
+      <div class="course-card">
+        <h4>Programming 101</h4>
+        <p>Learn the basics of programming with Python.</p>
+        <button>Enroll</button>
+      </div>
+      <div class="course-card">
+        <h4>UI/UX Design</h4>
+        <p>Design interfaces that are both functional and beautiful.</p>
+        <button>Enroll</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="benefits">
+    <h2>Benefits</h2>
+    <div class="benefit">
+      <h4>Expert Instructors</h4>
+      <p>Learn from industry leaders.</p>
+    </div>
+    <div class="benefit">
+      <h4>Certification</h4>
+      <p>Get certified to showcase your skills.</p>
+    </div>
+    <div class="benefit">
+      <h4>Flexible Learning</h4>
+      <p>Study anytime, anywhere.</p>
+    </div>
+  </section>
+
+  <footer>
+    <ul>
+      <li><a href="#">About Us</a></li>
+      <li><a href="#">FAQ</a></li>
+      <li><a href="#">Support</a></li>
+      <li><a href="#">Contact Us</a></li>
+    </ul>
+  </footer>
+</body>
+</html>
