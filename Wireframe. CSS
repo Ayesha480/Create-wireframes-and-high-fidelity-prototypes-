@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fdf4ec;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #ffeddb;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  color: #333;
+}
+
+header p {
+  font-size: 1.2rem;
+  margin: 20px 0;
+}
+
+.cta-btn {
+  padding: 10px 20px;
+  background-color: #ff6f3c;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.courses {
+  padding: 50px 20px;
+}
+
+.courses h2 {
+  text-align: center;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.course-category {
+  margin-bottom: 30px;
+}
+
+.course-category h3 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #ff6f3c;
+}
+
+.course-card {
+  background-color: #fff;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.course-card h4 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.course-card p {
+  margin: 10px 0;
+}
+
+.course-card button {
+  padding: 10px;
+  background-color: #ff6f3c;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.benefits {
+  padding: 50px 20px;
+  background-color: #ffeddb;
+}
+
+.benefits h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.benefit {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+footer {
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+footer ul li a {
+  color: #ff6f3c;
+  text-decoration: none;
+}
